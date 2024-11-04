@@ -1,0 +1,18 @@
+npx create-react-app "nome"
+
+npm start
+
+npm init -y (server)
+
+npm run "nome da variavel configurada no json"
+
+npm install mysql2
+
+npm add axios (client)
+
+
+npm add mysql express cors nodemon (server)
+
+node add @material-ui/core (versoes antigas)
+
+npm install @mui/material @emotion/react @emotion/styled
